@@ -10,3 +10,4 @@ Note: Easy devkit in HostBill requires PHP 5.3+
  + Payment: Sample gateway (simplepaypal.php)
  + Payment: Sample merchant gateway (simplenavigate.php)
  + Domain: Sample domain registrar (simplenamesilo.php)
+ + Plugin: Sample plugin (simplestmodule.php)
