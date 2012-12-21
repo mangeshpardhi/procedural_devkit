@@ -5,6 +5,9 @@ It contains sample Procedural modules for HostBill - also known as Easy modules
 
 Note: Easy devkit in HostBill requires PHP 5.3+
 
+## Sample single page:
+ + singlepage.php - creating custom internal HostBill cientarea page
+
 ## Sample modules:
  + Hosting: Simple CPanel module (simplecpanel.php)
  + Payment: Sample gateway (simplepaypal.php)
